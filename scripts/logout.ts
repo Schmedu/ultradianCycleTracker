@@ -1,7 +1,7 @@
 // Name: Logout Trigger
 // Description: This script is triggered when the user logs out. Resets the timer for the current ultradian cycle.
 // Author: Eduard Uffelmann
-// System: lock-screen
+/// System: lock-screen
 // Tags: ultradian-cycle-tracker, logout
 // Author: Eduard Uffelmann
 // Twitter: @schmedu_

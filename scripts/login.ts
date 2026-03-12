@@ -1,6 +1,6 @@
 // Name: Login Trigger
 // Description: This script is triggered when the user logs in. Starts the timer for the current ultradian cycle.
-// System: unlock-screen
+/// System: unlock-screen
 // Tags: ultradian-cycle-tracker, login
 // Author: Eduard Uffelmann
 // Twitter: @schmedu_
